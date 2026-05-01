@@ -45,7 +45,7 @@ The dashboard helps decision-makers track KPIs and identify growth opportunities
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
